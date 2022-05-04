@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Hanif Kurniawan A</h2>
-- 🌱 I’m currently learning Data Science or Analytics with Phyton
-
-- 📫 How to reach me kurniawanhanif63@gmail.com
+<hr>
+-🌱 I’m currently learning Data Science or Analytics with Phyton
+-📫 How to reach me kurniawanhanif63@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
