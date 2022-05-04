@@ -2,7 +2,7 @@
 
 My name is **Hanif Kurniawan Atmanto**.
 - 🌱 I’m currently learning Data Science or Analytics with Phyton
-- 📫 How to reach me kurniawanhanif63@gmail.com
+- 📫 How to reach me: kurniawanhanif63@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
