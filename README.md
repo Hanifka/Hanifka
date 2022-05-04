@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Data Science or Analytics with Phyton
-📫 Give me feedback at : <a href=https://www.instagram.com/hanif.ka/">
-                            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-                          </a>
+
+📫 Give me feedback at : 
+<a href=https://www.instagram.com/hanif.ka/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanifka&layout=compact)](https://github.com/Hanifka/github-readme-stats)
 
