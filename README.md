@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<hr>
 <!--
 **Hanifka/Hanifka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
+
 🌱 I’m currently learning Data Science or Analytics with Phyton
 
-
-📫 Please Give me feedback at : hanif.ka
+📫 Please Give me feedback at : @hanif.ka
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanifka&layout=compact)](https://github.com/Hanifka/github-readme-stats)
