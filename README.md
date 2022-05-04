@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Data Science or Analytics with Phyton
 
-📫 Please Give me feedback at : ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/hanif.ka/)
+📫 Please Give me feedback at : hanif.ka
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanifka&layout=compact)](https://github.com/Hanifka/github-readme-stats)
 
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
