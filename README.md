@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, Welcome To my Github</h2>
 
-My name is **Hanif Kurniawan Atmanto**.
+My name is **Hanif Kurniawan A**.
 - 🌱 I’m currently learning Data Science or Analytics with Phyton
 - 📫 How to reach me: kurniawanhanif63@gmail.com
 
